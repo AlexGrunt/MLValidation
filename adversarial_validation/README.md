@@ -19,3 +19,7 @@
 Ноутбуки имеют следующую структуру:
 * [\[0\]adversarial_validation](https://github.com/AlexGrunt/MLValidation/blob/main/adversarial_validation/%5B0%5Dadversarial_validation.ipynb) - простой пример применения описанного подхода. Показано, что тестовая и обучающая California Housing Dataset
 неразличимы моделью CatBoostClassifier. 
+
+## Литература
+
+* [Adversarial Validation Approach to Concept Drift Problem in User Targeting Automation Systems at Uber](https://arxiv.org/pdf/2004.03045.pdf)
