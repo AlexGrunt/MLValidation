@@ -1,0 +1,9 @@
+# common files to ignore
+venv/
+.DS_Store
+# ignore all .csv files
+**.*.csv
+# ignore datasets folder
+datasets/*
+# ignore latex folder
+latex_template/*
