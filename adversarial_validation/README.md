@@ -14,3 +14,8 @@
 
 Если это удалось сделать хорошо (например __ROC AUC__ значительно отличается от 0.5), то эти выборки не имеют разные распределения.
 При этом виновные в этом признаки можно определить посмотрев на feature imiportance.
+
+## Ноутбуки
+Ноутбуки имеют следующую структуру:
+* [\[0\]adversarial_validation](https://github.com/AlexGrunt/MLValidation/blob/main/adversarial_validation/%5B0%5Dadversarial_validation.ipynb) - простой пример применения описанного подхода. Показано, что тестовая и обучающая California Housing Dataset
+неразличимы моделью CatBoostClassifier. 
