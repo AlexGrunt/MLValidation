@@ -22,6 +22,7 @@
 Ноутбуки имеют следующую структуру:
 * [\[0\]adversarial_validation](https://github.com/AlexGrunt/MLValidation/blob/main/adversarial_validation/%5B0%5Dadversarial_validation.ipynb) - простой пример применения описанного подхода. Показано, что тестовая и обучающая California Housing Dataset
 неразличимы моделью CatBoostClassifier. 
+* [\[1\]adversarial_validation_tool](https://github.com/AlexGrunt/MLValidation/blob/main/adversarial_validation/%5B1%5Dadversarial_validation_tool.ipynb) - проверка на наличие concept drift между обучающей и тестовой выборками реализована в виде функции, приведены примеры ее использования для California Housing Dataset, Sberbank Russian Housing Market Dataset, Tabular Playground Series - Jan 2022 Kaggle
 
 ## Литература
 
