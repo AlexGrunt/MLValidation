@@ -28,3 +28,4 @@
 
 * [Adversarial Validation Approach to Concept Drift Problem in User Targeting Automation Systems at Uber](https://arxiv.org/pdf/2004.03045.pdf)
 * [How to Assess Similarity between Two Datasets? — Adversarial Validation](https://towardsdatascience.com/how-to-assess-similarity-between-two-datasets-adversarial-validation-246710eba387) - здесь можно найти имплементацию с LightGBM
+* [Practical drift detection](https://torchdrift.org/notebooks/drift_detection_overview.html)
