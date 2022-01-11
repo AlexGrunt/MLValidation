@@ -24,6 +24,9 @@
 неразличимы моделью CatBoostClassifier. 
 * [\[1\]adversarial_validation_tool](https://github.com/AlexGrunt/MLValidation/blob/main/adversarial_validation/%5B1%5Dadversarial_validation_tool.ipynb) - проверка на наличие concept drift между обучающей и тестовой выборками реализована в виде функции, приведены примеры ее использования для California Housing Dataset, Sberbank Russian Housing Market Dataset, Tabular Playground Series - Jan 2022 Kaggle
 
+## TODO
+* Реализовать поиск похожей на тест части трейна следующим образом: учимся предсказывать объекты тестовой выборки, скорим вероятности на объектах трейна: близкие к единицы - похожие на тест. Попробовать эвристически поискать катоф по уверенности модели.
+
 ## Литература
 
 * [Adversarial Validation Approach to Concept Drift Problem in User Targeting Automation Systems at Uber](https://arxiv.org/pdf/2004.03045.pdf)
