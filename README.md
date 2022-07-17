@@ -10,6 +10,7 @@
 * [How can I trust you?](https://medium.com/@afagarap/how-can-i-trust-you-fb433a06256c) - статья про метрику trust scoree
 
 * [Out-of-Distribution Detection with Deep Nearest Neighbors](https://arxiv.org/abs/2204.06507)
+
 Обнаружение вне распределения (OOD) является важной задачей для применения машинного обучения в реальном мире с реальными данными. 
 В данной работе, авторы, исследуют эффективность непараметрического расстояния ближайшего соседа для обнаружения OOD.
 
